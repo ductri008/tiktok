@@ -1,0 +1,11 @@
+@import 'normalize.css';
+
+@font-face {
+    font-family: ProximaNova;
+    src: url(./fonts/ProximaNova-Regular.otf);
+}
+
+body {
+    font-family: ProximaNova;
+    font-weight: 1000;
+}
